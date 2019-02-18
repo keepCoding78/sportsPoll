@@ -1,0 +1,2 @@
+# sportsPoll
+Sports Poll component.
